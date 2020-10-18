@@ -14,10 +14,10 @@ RESTful WEB
 {
     "name": "demo",
     "posts": [{
-        content: "ctx..",
-        user: {
-            name: "xxxx",
-            info: "xxxx",
+        "content": "ctx..",
+        "user": {
+            "name": "xxxx",
+            "info": "xxxx",
         },
     }],
 }
